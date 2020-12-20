@@ -25,5 +25,5 @@
 <a href="https://github.com/2JS"><img src="https://img.shields.io/badge/GitHub-2JS-181717?logo=github&logoColor=white"></a>
 <a href="mailto:lego3410@gmail.com"><img src="https://img.shields.io/badge/Email-lego3410%40gmail.com-2196F3?logo=gmail&logoColor=white"></a>
 </p>
-
+<!-- https://velog.io/@woo0_hooo/Github-github-profile-간지나게-꾸미기 -->
 
